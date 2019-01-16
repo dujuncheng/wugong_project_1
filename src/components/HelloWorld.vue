@@ -1,12 +1,6 @@
 <template>
   <div class="hello">
     <h1>wugong_project_1 changed by dujuncheng1</h1>
-    <h1>wugong_project_1 changed by dujuncheng2</h1>
-    <h1>wugong_project_1 changed by dujuncheng3</h1>
-    <h1>wugong_project_1 changed by dujuncheng4</h1>
-    <h1>wugong_project_1 changed by dujuncheng5</h1>
-      <h1>wugong_project_1 changed by dujuncheng6</h1>
-      <h1>wugong_project_1 changed by dujuncheng7</h1>
   </div>
 </template>
 
